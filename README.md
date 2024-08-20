@@ -1,6 +1,6 @@
-## Seja bem-vindo ao meu perfil! 😊
+### Seja bem-vindo ao meu perfil! 😊
 
-Meu nome é Isabella Dias
+### Meu nome é Isabella Dias
 
 - Estou estudando na Alura
 - Trabalho no desenvolvimento na linguagem JavaScript
