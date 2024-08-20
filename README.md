@@ -12,4 +12,4 @@ isabella.boeke.dias@escola.pr.gov.br
 
 @i7bdias
 
-![ ](https://tenor.com/pt-BR/view/sejam-muito-bem-vindos-welcome-greet-gif-16813020)
+![](https://tenor.com/pt-BR/view/sejam-muito-bem-vindos-welcome-greet-gif-16813020)
