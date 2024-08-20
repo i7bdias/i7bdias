@@ -2,7 +2,7 @@
 
 #### Meu nome é Isabella Dias
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Trabalho no desenvolvimento na linguagem JavaScript
 - Utilizo esse espaço como forma de organização e compartilhamento de projetos desenvolvidos
 
