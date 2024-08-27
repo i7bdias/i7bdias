@@ -13,4 +13,5 @@ isabella.boeke.dias@escola.pr.gov.br
 @i7bdias
 
 
-![](https://myoctocat.com/build-your-octocat/)
+![](https://media.tenor.com/c2cFdOYzgMYAAAAM/gremio.gif)
+
